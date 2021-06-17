@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "now-build": "next build",
     "weather-app:dev": "next dev",
     "weather-app:build": "next build",
     "weather-app:start": "next start"
