@@ -1,0 +1,14 @@
+{
+  "name": "weather-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "author": "stevensierra.dev@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "src/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

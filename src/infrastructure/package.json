@@ -1,0 +1,15 @@
+{
+    "name": "@infrastructure/services",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "author": "stevensierra.dev.com",
+    "license": "ISC",
+    "scripts": { "postinstall": "tsc"},
+    "dependencies": {
+        "typescript": "3.8.3"
+    },
+    "devDependencies": {
+        "babel-loader": "8.0.6"
+    }
+}
