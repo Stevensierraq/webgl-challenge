@@ -51,7 +51,7 @@ $ yarn lerna run ui:storybook --stream
 ```
 Run only webgl lib
 ```sh
-$ yarn lerna run ui:storybook --stream
+$ yarn lerna run webgl:dev --stream
 ```
 
 Run the unit testing
