@@ -37,7 +37,7 @@ This is the final app that consumes the other packages.
 Clone this repository.
 
 ```sh
-$ cd weather-challenge
+$ cd webgl-challenge
 $ yarn
 ```
 Run the application
